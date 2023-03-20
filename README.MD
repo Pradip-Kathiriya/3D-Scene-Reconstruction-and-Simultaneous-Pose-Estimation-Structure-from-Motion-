@@ -36,3 +36,12 @@ The following are the steps involved in the SfM:
 ### Bundle Adjustment and Sparse Scene Reconstruction
 
 ![BundleAdjustment56](https://user-images.githubusercontent.com/90370308/222008894-d65dfeae-db6d-40e4-a173-2f51f451417c.png)
+
+## Requirement
+Python 2.0 or above
+
+## License
+
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Copyright (c) Feb 2023 Pradip Kathiriya
